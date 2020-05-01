@@ -1,0 +1,12 @@
+reload-message: "&a&lReload Successful!"
+
+blocks:
+  DIRT:
+    - DIRT
+    - DIRT
+    - DIRT
+    - STONE
+    - GRASS
+  SAND:
+    - SAND
+    - FLINT

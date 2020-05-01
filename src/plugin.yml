@@ -1,0 +1,8 @@
+main: me.Corey.RandomDrops.Main
+name: RandomDrops
+author: 1K2C3M
+version: v1.0
+api-version: 1.13
+
+commands:
+  RandomDrops:
